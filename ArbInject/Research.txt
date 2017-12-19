@@ -1,0 +1,6 @@
+﻿http://securityxploded.com/dll-injection-and-hooking.php
+http://securityxploded.com/remotedll.php
+http://securityxploded.com/ntcreatethreadex.php
+http://nagareshwar.securityxploded.com/2014/03/20/code-injection-and-api-hooking-techniques/
+http://securityxploded.com/bypassing-antivirus-using-code-injection.php
+http://nagareshwar.securityxploded.com/2012/09/07/dll-injection-and-windows-8/
